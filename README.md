@@ -13,3 +13,9 @@ Examples of allowed projects:
 Examples of not allowed projects:
 
 	1)Showing or displaying the source code of the module in a software free or paid.
+	
+How to use this git?
+	
+	1)Publish any changes to the main script to the Module Changes Repo
+	2)Publish trained brain files in the brain files repo
+
