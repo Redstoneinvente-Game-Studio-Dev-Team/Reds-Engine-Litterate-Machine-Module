@@ -1,0 +1,12 @@
+{
+  "adjectives": [ "Pretty", "Old", "Small", "Big", "Smart", "" ],
+  "adverbs": [ "Greatly", "Gently", "Extremely", "Carefully", "Well", "" ],
+  "conjuctions": [ "Then", "Moreover", "And", "But", "Or", "" ],
+  "fullWordsDetails": [],
+  "nouns": [ "Tom", "an", "apple" ],
+  "prepositions": [ "By", "With", "About", "Until", "" ],
+  "proNouns": [ "She", "Her", "He", "It", "They", "We", "Me", "Him", "Them", "I", "" ],
+  "questionSyntax": "{\"questionJSONS\":[],\"questionData\":\"\"}",
+  "verbs": [ "Is", "Are", "Walk", "Talk", "Jump", "Move", "Eat", "Sleep", "Run", "Take", "eating" ],
+  "words": ""
+}
